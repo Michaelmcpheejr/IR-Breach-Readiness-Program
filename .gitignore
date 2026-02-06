@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Optional: evidence exports
+# *.pdf
+# *.png
