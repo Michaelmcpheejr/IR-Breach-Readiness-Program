@@ -1,42 +1,5 @@
-# Incident Response & Breach Readiness Program
+This project has been superseded by:
 
-## Overview
+Enterprise Incident Response Program with Tabletop Exercise
 
-This repository contains an **Incident Response & Breach Readiness Program** designed to detect, contain, eradicate, and recover from security incidents while supporting executive decision-making and regulatory obligations.
-
-The program aligns to NIST SP 800-61 and integrates identity, vendor risk, Zero Trust, and governance considerations into a unified response capability.
-
----
-
-## Program Objectives
-
-- Establish a structured incident response lifecycle
-- Define clear severity classification and escalation rules
-- Enable coordinated technical, legal, and executive response
-- Support regulatory notification and audit readiness
-- Capture lessons learned to improve controls and risk posture
-
----
-
-## Scope
-
-This program covers:
-- Identity compromise and privileged access incidents
-- Third-party vendor security incidents
-- Cloud and data exposure events
-- Zero Trust access failures
-- Regulatory and executive breach response coordination
-
----
-
-## How to Review This Repo
-
-1. Read the program foundation in `docs/`
-2. Review severity definitions and escalation logic
-3. Examine response playbooks in `playbooks/`
-
----
-
-## Portfolio Note
-
-This repository is a portfolio demonstration. All scenarios and artifacts are simulated. Do not upload real organizational data, credentials, or sensitive incident records.
+The newer repository contains expanded governance, playbook execution, tabletop validation, gap discovery, remediation planning, and continuous improvement procedures.
