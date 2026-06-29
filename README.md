@@ -34,8 +34,6 @@ This program covers:
 1. Read the program foundation in `docs/`
 2. Review severity definitions and escalation logic
 3. Examine response playbooks in `playbooks/`
-4. Walk through the tabletop exercise in `tabletop/`
-5. Review post-incident review artifacts in `reviews/`
 
 ---
 
